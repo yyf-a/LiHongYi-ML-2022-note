@@ -31,4 +31,8 @@
 #### Pytorch
 
 - [tut1](https://www.bilibili.com/video/BV1Wv411h7kN?p=6)
-- 
+  - Pytorch Tutorial 1.pdf
+- [tut2](https://www.bilibili.com/video/BV1Wv411h7kN?p=7)
+  - Pytorch Tutorial 2.pdf
+- another good source in [PyTorch offical web](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
+
